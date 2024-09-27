@@ -15,7 +15,7 @@ Add FOSUserBundle in your composer.json:
 {
     "require": {
         ...
-        "libelulasoft/phpseclib-bundle": "dev-master"
+        "libelulasoft/phpseclib-bundle": "^1.0.0"
         ...
     }
 }
